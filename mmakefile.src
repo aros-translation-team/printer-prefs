@@ -3,7 +3,7 @@
 
 include $(SRCDIR)/config/aros.cfg
 
-CATALOGS:=czech french polish norwegian
+CATALOGS:=czech french polish norwegian spanish
 
 # The need to update french catalog 
 
