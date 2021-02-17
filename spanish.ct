@@ -1,10 +1,10 @@
 ## version $VER: Printer.catalog 2.0 (18.01.2021)
-## language espaÃ±ol
+## language español
 ## codeset 0
 ;
 ;
 MSG_WINTITLE
-Preferencias de impresiÃ³n
+Preferencias de impresión
 ; Printer Preferences
 ;
 MSG_OK
@@ -64,7 +64,7 @@ Tipo de papel:
 ; Paper Type:
 ;
 MSG_TISK_PAPER_SIZE
-TamaÃ±o de papel:
+Tamaño de papel:
 ; Paper Size:
 ;
 MSG_TISK_QUALITY
@@ -88,7 +88,7 @@ Margen derecho:
 ; Right Margin:
 ;
 MSG_TISK_LINE_PER_PAGE
-LÃ­neas por pÃ¡gina:
+Líneas por página:
 ; Lines per Page:
 ;
 MSG_TISK_DENSITY
