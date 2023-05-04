@@ -124,11 +124,11 @@ Offset (
 ; Offset (
 ;
 MSG_TISK_CENTER_IMAGE
-Centrar Imagen:
+Centrar imagen:
 ; Center Image:
 ;
 MSG_TISK_ANTIALIAS
-Antialias:
+AntiAlias:
 ; AntiAlias:
 ;
 MSG_TISK_INTEGER_SCALING
@@ -160,7 +160,7 @@ Horizontal
 ; Landscape
 ;
 MSG_TISK_BW
-Blanco y negro
+Blanco y Negro
 ; Black & White
 ;
 MSG_TISK_GRAY
