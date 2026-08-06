@@ -1,0 +1,216 @@
+## version $VER: Printer.catalog 2.0 (06.08.2026)
+## language hrvatski
+## codeset 5
+;
+MSG_WINTITLE
+Postavke Pisaèa
+; Printer Preferences
+;
+MSG_OK
+U redu
+; Ok
+;
+MSG_PRINTER_DRIVER
+Upravljaèki program
+; Driver
+;
+MSG_PRINTER_SETTINGS
+Opcije
+; Settings
+;
+MSG_PRINTER_SELECT_DRIVER
+Odaberi upravljaèki program:
+; Select Driver:
+;
+MSG_PRINTER_NAME
+Ime:
+; Name:
+;
+MSG_PRINTER_UNIT
+Jedinica pisaèa:
+; Printer Unit:
+;
+MSG_PRINTER_PS_UNIT
+Jedinica:
+; Unit:
+;
+MSG_PRINTER_CUSTOM_DEVICE
+Prilagoðeni ureðaj:
+; Custom device:
+;
+MSG_PRINTER_DEVICE_UNIT
+Jedinica %d
+; Unit %d
+;
+MSG_PRINTER_PARALLEL
+Paralelni
+; Parallel
+;
+MSG_PRINTER_SERIAL
+Serijski
+; Serial
+;
+MSG_PRINTER_TO_FILE
+Ispis u datoteku
+; Print to file
+;
+MSG_PRINTER_USB
+USB pisaè
+; USB Printer
+;
+MSG_TISK_PAPER_TYPE
+Vrsta papira:
+; Paper Type:
+;
+MSG_TISK_PAPER_SIZE
+Velièina papira:
+; Paper Size:
+;
+MSG_TISK_QUALITY
+Kvaliteta:
+; Quality:
+;
+MSG_TISK_PITCH
+Gustoæa znakova:
+; Pitch:
+;
+MSG_TISK_SPACING
+Razmak:
+; Spacing:
+;
+MSG_TISK_LEFT_MARGIN
+Lijeva margina:
+; Left Margin:
+;
+MSG_TISK_RIGHT_MARGIN
+Desna margina:
+; Right Margin:
+;
+MSG_TISK_LINE_PER_PAGE
+Redaka po stranici:
+; Lines per Page:
+;
+MSG_TISK_DENSITY
+Zasiæenost:
+; Density:
+;
+MSG_TISK_ASPECT
+Omjer:
+; Aspect:
+;
+MSG_TISK_SHADE
+Obojenost:
+; Shade:
+;
+MSG_TISK_IMAGE
+Slika:
+; Image:
+;
+MSG_TISK_TRESHOLD
+Prag:
+; Threshold:
+;
+MSG_TISK_DITHERING
+Dithering:
+; Dithering:
+;
+MSG_TISK_DIMENSION
+Dimenzije:
+; Dimensions:
+;
+MSG_TISK_PAPER_OFFSET
+Odmak (
+; Offset (
+;
+MSG_TISK_CENTER_IMAGE
+Centriraj sliku:
+; Center Image:
+;
+MSG_TISK_ANTIALIAS
+AntiAlias:
+; AntiAlias:
+;
+MSG_TISK_INTEGER_SCALING
+Cjelobrojno skaliranje:
+; Integer Scaling:
+;
+MSG_TISK_FANFOLD
+Beskonaèni papir
+; Fanfold
+;
+MSG_TISK_SINGLE
+Pojedinaèni list
+; Single
+;
+MSG_TISK_DRAFT
+Skica (72 dpi)
+; Draft (72 dpi)
+;
+MSG_TISK_LETTER
+Dopisna (240 dpi)
+; Letter (240 dpi)
+;
+MSG_TISK_PORTRAIT
+Uspravno
+; Portrait
+;
+MSG_TISK_LANDSCAPE
+Vodoravno
+; Landscape
+;
+MSG_TISK_BW
+Crno-bijelo
+; Black & White
+;
+MSG_TISK_GRAY
+Sivi tonovi
+; Greyscape
+;
+MSG_TISK_COLOR
+Boja
+; Color
+;
+MSG_TISK_GRAY2
+Sivi tonovi 2
+; Greyscape 2
+;
+MSG_TISK_POSITIVE
+Pozitiv
+; Positive
+;
+MSG_TISK_NEGATIVE
+Negativ
+; Negative
+;
+MSG_TISK_IGNORE
+Zanemari
+; Ignore
+;
+MSG_TISK_BOUNDED
+Ogranièeno
+; Bounded
+;
+MSG_TISK_ABSOLUTE
+Apsolutno
+; Absolute
+;
+MSG_TISK_PIXEL
+Piksel
+; Pixel
+;
+MSG_TISK_MULTIPLY
+Umno¾eno
+; Multiply
+;
+MSG_TISK_ORDERED
+Ureðeno
+; Ordered
+;
+MSG_TISK_HALFTONE
+Polutonovi
+; Halftone
+;
+MSG_TISK_FLOYDSTEINBERG
+Floyd-Steinberg
+; Floyd-Steinberg
+;

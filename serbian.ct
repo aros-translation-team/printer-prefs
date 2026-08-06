@@ -1,0 +1,216 @@
+## version $VER: Printer.catalog 2.0 (06.08.2026)
+## language srpski
+## codeset 8
+;
+MSG_WINTITLE
+PodeÁavanja Átampaüa
+; Printer Preferences
+;
+MSG_OK
+Ok
+; Ok
+;
+MSG_PRINTER_DRIVER
+Drajver
+; Driver
+;
+MSG_PRINTER_SETTINGS
+PodeÁavanja
+; Settings
+;
+MSG_PRINTER_SELECT_DRIVER
+Izaberi drajver:
+; Select Driver:
+;
+MSG_PRINTER_NAME
+Ime:
+; Name:
+;
+MSG_PRINTER_UNIT
+Jedinica Átampaüa:
+; Printer Unit:
+;
+MSG_PRINTER_PS_UNIT
+Jedinica:
+; Unit:
+;
+MSG_PRINTER_CUSTOM_DEVICE
+Sopstveni ure–aj:
+; Custom device:
+;
+MSG_PRINTER_DEVICE_UNIT
+Jedinica %d
+; Unit %d
+;
+MSG_PRINTER_PARALLEL
+Paralelni
+; Parallel
+;
+MSG_PRINTER_SERIAL
+Serijski
+; Serial
+;
+MSG_PRINTER_TO_FILE
+Êtampaj u fajl
+; Print to file
+;
+MSG_PRINTER_USB
+USB Átampaü
+; USB Printer
+;
+MSG_TISK_PAPER_TYPE
+Tip papira:
+; Paper Type:
+;
+MSG_TISK_PAPER_SIZE
+Veliüina papira:
+; Paper Size:
+;
+MSG_TISK_QUALITY
+Kvalitet:
+; Quality:
+;
+MSG_TISK_PITCH
+Korak:
+; Pitch:
+;
+MSG_TISK_SPACING
+Prored:
+; Spacing:
+;
+MSG_TISK_LEFT_MARGIN
+Leva margina:
+; Left Margin:
+;
+MSG_TISK_RIGHT_MARGIN
+Desna margina:
+; Right Margin:
+;
+MSG_TISK_LINE_PER_PAGE
+Linija po strani:
+; Lines per Page:
+;
+MSG_TISK_DENSITY
+Gustina:
+; Density:
+;
+MSG_TISK_ASPECT
+Odnos stranica:
+; Aspect:
+;
+MSG_TISK_SHADE
+Tonovi:
+; Shade:
+;
+MSG_TISK_IMAGE
+Slika:
+; Image:
+;
+MSG_TISK_TRESHOLD
+Prag:
+; Threshold:
+;
+MSG_TISK_DITHERING
+Dithering:
+; Dithering:
+;
+MSG_TISK_DIMENSION
+Dimenzije:
+; Dimensions:
+;
+MSG_TISK_PAPER_OFFSET
+Pomeraj (
+; Offset (
+;
+MSG_TISK_CENTER_IMAGE
+Centriraj sliku:
+; Center Image:
+;
+MSG_TISK_ANTIALIAS
+AntiAlias:
+; AntiAlias:
+;
+MSG_TISK_INTEGER_SCALING
+Celobrojno skaliranje:
+; Integer Scaling:
+;
+MSG_TISK_FANFOLD
+Beskonaüni
+; Fanfold
+;
+MSG_TISK_SINGLE
+Pojedinaüni
+; Single
+;
+MSG_TISK_DRAFT
+Skica (72 dpi)
+; Draft (72 dpi)
+;
+MSG_TISK_LETTER
+Visok kvalitet (240 dpi)
+; Letter (240 dpi)
+;
+MSG_TISK_PORTRAIT
+Uspravno
+; Portrait
+;
+MSG_TISK_LANDSCAPE
+Poloßeno
+; Landscape
+;
+MSG_TISK_BW
+Crno-belo
+; Black & White
+;
+MSG_TISK_GRAY
+Sivi tonovi
+; Greyscape
+;
+MSG_TISK_COLOR
+Boja
+; Color
+;
+MSG_TISK_GRAY2
+Sivi tonovi 2
+; Greyscape 2
+;
+MSG_TISK_POSITIVE
+Pozitiv
+; Positive
+;
+MSG_TISK_NEGATIVE
+Negativ
+; Negative
+;
+MSG_TISK_IGNORE
+IgnoriÁi
+; Ignore
+;
+MSG_TISK_BOUNDED
+Ograniüeno
+; Bounded
+;
+MSG_TISK_ABSOLUTE
+Apsolutno
+; Absolute
+;
+MSG_TISK_PIXEL
+Piksel
+; Pixel
+;
+MSG_TISK_MULTIPLY
+Mnoßenje
+; Multiply
+;
+MSG_TISK_ORDERED
+Ure–eni
+; Ordered
+;
+MSG_TISK_HALFTONE
+Poluton
+; Halftone
+;
+MSG_TISK_FLOYDSTEINBERG
+Floyd-Steinberg
+; Floyd-Steinberg
+;

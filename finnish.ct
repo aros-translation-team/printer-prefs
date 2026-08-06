@@ -1,0 +1,216 @@
+## version $VER: Printer.catalog 2.0 (06.08.2026)
+## language suomi
+## codeset 0
+;
+MSG_WINTITLE
+Tulostinasetukset
+; Printer Preferences
+;
+MSG_OK
+Selvä
+; Ok
+;
+MSG_PRINTER_DRIVER
+Ajuri
+; Driver
+;
+MSG_PRINTER_SETTINGS
+Asetukset
+; Settings
+;
+MSG_PRINTER_SELECT_DRIVER
+Valitse ajuri:
+; Select Driver:
+;
+MSG_PRINTER_NAME
+Nimi:
+; Name:
+;
+MSG_PRINTER_UNIT
+Tulostimen yksikkö:
+; Printer Unit:
+;
+MSG_PRINTER_PS_UNIT
+Yksikkö:
+; Unit:
+;
+MSG_PRINTER_CUSTOM_DEVICE
+Mukautettu laite:
+; Custom device:
+;
+MSG_PRINTER_DEVICE_UNIT
+Yksikkö %d
+; Unit %d
+;
+MSG_PRINTER_PARALLEL
+Rinnakkaisportti
+; Parallel
+;
+MSG_PRINTER_SERIAL
+Sarjaportti
+; Serial
+;
+MSG_PRINTER_TO_FILE
+Tulosta tiedostoon
+; Print to file
+;
+MSG_PRINTER_USB
+USB-tulostin
+; USB Printer
+;
+MSG_TISK_PAPER_TYPE
+Paperityyppi:
+; Paper Type:
+;
+MSG_TISK_PAPER_SIZE
+Paperikoko:
+; Paper Size:
+;
+MSG_TISK_QUALITY
+Laatu:
+; Quality:
+;
+MSG_TISK_PITCH
+Merkkitiheys:
+; Pitch:
+;
+MSG_TISK_SPACING
+Riviväli:
+; Spacing:
+;
+MSG_TISK_LEFT_MARGIN
+Vasen marginaali:
+; Left Margin:
+;
+MSG_TISK_RIGHT_MARGIN
+Oikea marginaali:
+; Right Margin:
+;
+MSG_TISK_LINE_PER_PAGE
+Rivejä sivulla:
+; Lines per Page:
+;
+MSG_TISK_DENSITY
+Tiheys:
+; Density:
+;
+MSG_TISK_ASPECT
+Kuvasuhde:
+; Aspect:
+;
+MSG_TISK_SHADE
+Sävy:
+; Shade:
+;
+MSG_TISK_IMAGE
+Kuva:
+; Image:
+;
+MSG_TISK_TRESHOLD
+Kynnysarvo:
+; Threshold:
+;
+MSG_TISK_DITHERING
+Rasterointi:
+; Dithering:
+;
+MSG_TISK_DIMENSION
+Mitat:
+; Dimensions:
+;
+MSG_TISK_PAPER_OFFSET
+Siirtymä (
+; Offset (
+;
+MSG_TISK_CENTER_IMAGE
+Keskitä kuva:
+; Center Image:
+;
+MSG_TISK_ANTIALIAS
+Reunanpehmennys:
+; AntiAlias:
+;
+MSG_TISK_INTEGER_SCALING
+Kokonaislukuskaalaus:
+; Integer Scaling:
+;
+MSG_TISK_FANFOLD
+Jatkolomake
+; Fanfold
+;
+MSG_TISK_SINGLE
+Yksittäisarkki
+; Single
+;
+MSG_TISK_DRAFT
+Vedos (72 dpi)
+; Draft (72 dpi)
+;
+MSG_TISK_LETTER
+Letter (240 dpi)
+; Letter (240 dpi)
+;
+MSG_TISK_PORTRAIT
+Pysty
+; Portrait
+;
+MSG_TISK_LANDSCAPE
+Vaaka
+; Landscape
+;
+MSG_TISK_BW
+Mustavalkoinen
+; Black & White
+;
+MSG_TISK_GRAY
+Harmaasävy
+; Greyscape
+;
+MSG_TISK_COLOR
+Väri
+; Color
+;
+MSG_TISK_GRAY2
+Harmaasävy 2
+; Greyscape 2
+;
+MSG_TISK_POSITIVE
+Positiivi
+; Positive
+;
+MSG_TISK_NEGATIVE
+Negatiivi
+; Negative
+;
+MSG_TISK_IGNORE
+Ohita
+; Ignore
+;
+MSG_TISK_BOUNDED
+Rajattu
+; Bounded
+;
+MSG_TISK_ABSOLUTE
+Absoluuttinen
+; Absolute
+;
+MSG_TISK_PIXEL
+Pikseli
+; Pixel
+;
+MSG_TISK_MULTIPLY
+Kerrannainen
+; Multiply
+;
+MSG_TISK_ORDERED
+Järjestetty
+; Ordered
+;
+MSG_TISK_HALFTONE
+Rasteri
+; Halftone
+;
+MSG_TISK_FLOYDSTEINBERG
+Floyd-Steinberg
+; Floyd-Steinberg
+;

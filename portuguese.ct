@@ -1,0 +1,216 @@
+## version $VER: Printer.catalog 2.0 (06.08.2026)
+## language português
+## codeset 0
+;
+MSG_WINTITLE
+Preferências da Impressora
+; Printer Preferences
+;
+MSG_OK
+Aceitar
+; Ok
+;
+MSG_PRINTER_DRIVER
+Driver
+; Driver
+;
+MSG_PRINTER_SETTINGS
+Configurações
+; Settings
+;
+MSG_PRINTER_SELECT_DRIVER
+Seleccionar Driver:
+; Select Driver:
+;
+MSG_PRINTER_NAME
+Nome:
+; Name:
+;
+MSG_PRINTER_UNIT
+Unidade da Impressora:
+; Printer Unit:
+;
+MSG_PRINTER_PS_UNIT
+Unidade:
+; Unit:
+;
+MSG_PRINTER_CUSTOM_DEVICE
+Dispositivo personalizado:
+; Custom device:
+;
+MSG_PRINTER_DEVICE_UNIT
+Unidade %d
+; Unit %d
+;
+MSG_PRINTER_PARALLEL
+Paralelo
+; Parallel
+;
+MSG_PRINTER_SERIAL
+Série
+; Serial
+;
+MSG_PRINTER_TO_FILE
+Imprimir para ficheiro
+; Print to file
+;
+MSG_PRINTER_USB
+Impressora USB
+; USB Printer
+;
+MSG_TISK_PAPER_TYPE
+Tipo de Papel:
+; Paper Type:
+;
+MSG_TISK_PAPER_SIZE
+Tamanho do Papel:
+; Paper Size:
+;
+MSG_TISK_QUALITY
+Qualidade:
+; Quality:
+;
+MSG_TISK_PITCH
+Passo:
+; Pitch:
+;
+MSG_TISK_SPACING
+Espaçamento:
+; Spacing:
+;
+MSG_TISK_LEFT_MARGIN
+Margem Esquerda:
+; Left Margin:
+;
+MSG_TISK_RIGHT_MARGIN
+Margem Direita:
+; Right Margin:
+;
+MSG_TISK_LINE_PER_PAGE
+Linhas por Página:
+; Lines per Page:
+;
+MSG_TISK_DENSITY
+Densidade:
+; Density:
+;
+MSG_TISK_ASPECT
+Aspecto:
+; Aspect:
+;
+MSG_TISK_SHADE
+Sombreado:
+; Shade:
+;
+MSG_TISK_IMAGE
+Imagem:
+; Image:
+;
+MSG_TISK_TRESHOLD
+Limiar:
+; Threshold:
+;
+MSG_TISK_DITHERING
+Dithering:
+; Dithering:
+;
+MSG_TISK_DIMENSION
+Dimensões:
+; Dimensions:
+;
+MSG_TISK_PAPER_OFFSET
+Offset (
+; Offset (
+;
+MSG_TISK_CENTER_IMAGE
+Centrar Imagem:
+; Center Image:
+;
+MSG_TISK_ANTIALIAS
+AntiAlias:
+; AntiAlias:
+;
+MSG_TISK_INTEGER_SCALING
+Escala inteira:
+; Integer Scaling:
+;
+MSG_TISK_FANFOLD
+Contínuo
+; Fanfold
+;
+MSG_TISK_SINGLE
+Simples
+; Single
+;
+MSG_TISK_DRAFT
+Rascunho (72 dpi)
+; Draft (72 dpi)
+;
+MSG_TISK_LETTER
+Carta (240 dpi)
+; Letter (240 dpi)
+;
+MSG_TISK_PORTRAIT
+Retrato
+; Portrait
+;
+MSG_TISK_LANDSCAPE
+Paisagem
+; Landscape
+;
+MSG_TISK_BW
+Preto e Branco
+; Black & White
+;
+MSG_TISK_GRAY
+Escala de cinzentos
+; Greyscape
+;
+MSG_TISK_COLOR
+Cor
+; Color
+;
+MSG_TISK_GRAY2
+Escala de cinzentos 2
+; Greyscape 2
+;
+MSG_TISK_POSITIVE
+Positivo
+; Positive
+;
+MSG_TISK_NEGATIVE
+Negativo
+; Negative
+;
+MSG_TISK_IGNORE
+Ignorar
+; Ignore
+;
+MSG_TISK_BOUNDED
+Delimitado
+; Bounded
+;
+MSG_TISK_ABSOLUTE
+Absoluto
+; Absolute
+;
+MSG_TISK_PIXEL
+Pixel
+; Pixel
+;
+MSG_TISK_MULTIPLY
+Multiplicar
+; Multiply
+;
+MSG_TISK_ORDERED
+Ordenado
+; Ordered
+;
+MSG_TISK_HALFTONE
+Meio-tom
+; Halftone
+;
+MSG_TISK_FLOYDSTEINBERG
+Floyd-Steinberg
+; Floyd-Steinberg
+;
