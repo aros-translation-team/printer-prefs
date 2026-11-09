@@ -58,6 +58,62 @@ MSG_PRINTER_USB
 USB-tulostin
 ; USB Printer
 ;
+MSG_PRINTER_SPOOLER
+Tulostusjono
+; Print spooler
+;
+MSG_PRINTER_NETWORK
+Verkkotulostin
+; Network printer
+;
+MSG_PRINTER_OTHER_DEVICE
+Muu laite
+; Other device
+;
+MSG_PRINTER_DESTINATION
+Kohde
+; Destination
+;
+MSG_PRINTER_SENDS_TO
+Lähettää:
+; Sends to:
+;
+MSG_PRINTER_NETWORK_PRINTER
+Tulostin:
+; Printer:
+;
+MSG_PRINTER_FORMAT
+Muoto:
+; Format:
+;
+MSG_PRINTER_ID
+Tulostimen tunnus:
+; Printer ID:
+;
+MSG_PRINTER_NONE_FOUND
+Verkkotulostimia ei löytynyt
+; No network printers found
+;
+MSG_PRINTER_DEST_FAILED
+Kohdetta ei voitu muuttaa:\n%s
+; The destination could not be changed:\n%s
+;
+MSG_PRINTER_DRIVER_SETTINGS
+Lisäasetukset...
+; Advanced...
+;
+MSG_PRINTER_DRIVER_NAME
+Ajuri:
+; Driver:
+;
+MSG_PRINTER_NO_DRIVER_SETTINGS
+Valitulla ajurilla ei ole omia asetuksia.
+; The selected driver has no settings of its own.
+;
+MSG_PRINTER_DRIVER_SETTINGS_FAILED
+printer.device-yksikön %ld asetuksia ei voi avata (virhe %ld).
+; Cannot open the settings of printer.device unit %ld (error %ld).
+;
 MSG_TISK_PAPER_TYPE
 Paperityyppi:
 ; Paper Type:

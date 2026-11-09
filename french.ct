@@ -59,6 +59,62 @@ MSG_PRINTER_USB
 Imprimante USB
 ; USB Printer
 ;
+MSG_PRINTER_SPOOLER
+Spouleur d'impression
+; Print spooler
+;
+MSG_PRINTER_NETWORK
+Imprimante réseau
+; Network printer
+;
+MSG_PRINTER_OTHER_DEVICE
+Autre périphérique
+; Other device
+;
+MSG_PRINTER_DESTINATION
+Destination
+; Destination
+;
+MSG_PRINTER_SENDS_TO
+Envoie vers:
+; Sends to:
+;
+MSG_PRINTER_NETWORK_PRINTER
+Imprimante:
+; Printer:
+;
+MSG_PRINTER_FORMAT
+Format:
+; Format:
+;
+MSG_PRINTER_ID
+ID de l'imprimante:
+; Printer ID:
+;
+MSG_PRINTER_NONE_FOUND
+Aucune imprimante réseau trouvée
+; No network printers found
+;
+MSG_PRINTER_DEST_FAILED
+La destination n'a pas pu être modifiée:\n%s
+; The destination could not be changed:\n%s
+;
+MSG_PRINTER_DRIVER_SETTINGS
+Avancé...
+; Advanced...
+;
+MSG_PRINTER_DRIVER_NAME
+Pilote:
+; Driver:
+;
+MSG_PRINTER_NO_DRIVER_SETTINGS
+Le pilote choisi n'a pas de paramètres propres.
+; The selected driver has no settings of its own.
+;
+MSG_PRINTER_DRIVER_SETTINGS_FAILED
+Impossible d'ouvrir les paramètres de l'unité %ld de printer.device (erreur %ld).
+; Cannot open the settings of printer.device unit %ld (error %ld).
+;
 MSG_TISK_PAPER_TYPE
 Type de papier:
 ; Paper Type:

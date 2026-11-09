@@ -59,6 +59,62 @@ MSG_PRINTER_USB
 USB port
 ; USB Printer
 ;
+MSG_PRINTER_SPOOLER
+Zaøazování tisku
+; Print spooler
+;
+MSG_PRINTER_NETWORK
+Sí»ová tiskárna
+; Network printer
+;
+MSG_PRINTER_OTHER_DEVICE
+Jiné zaøízení
+; Other device
+;
+MSG_PRINTER_DESTINATION
+Cíl
+; Destination
+;
+MSG_PRINTER_SENDS_TO
+Posílá na:
+; Sends to:
+;
+MSG_PRINTER_NETWORK_PRINTER
+Tiskárna:
+; Printer:
+;
+MSG_PRINTER_FORMAT
+Formát:
+; Format:
+;
+MSG_PRINTER_ID
+ID tiskárny:
+; Printer ID:
+;
+MSG_PRINTER_NONE_FOUND
+Nebyly nalezeny ¾ádné sí»ové tiskárny
+; No network printers found
+;
+MSG_PRINTER_DEST_FAILED
+Cíl nelze zmìnit:\n%s
+; The destination could not be changed:\n%s
+;
+MSG_PRINTER_DRIVER_SETTINGS
+Pokroèilé...
+; Advanced...
+;
+MSG_PRINTER_DRIVER_NAME
+Ovladaè:
+; Driver:
+;
+MSG_PRINTER_NO_DRIVER_SETTINGS
+Vybraný ovladaè nemá vlastní nastavení.
+; The selected driver has no settings of its own.
+;
+MSG_PRINTER_DRIVER_SETTINGS_FAILED
+Nelze otevøít nastavení jednotky %ld zaøízení printer.device (chyba %ld).
+; Cannot open the settings of printer.device unit %ld (error %ld).
+;
 MSG_TISK_PAPER_TYPE
 Typ papíru:
 ; Paper Type:

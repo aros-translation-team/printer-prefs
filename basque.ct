@@ -59,6 +59,62 @@ MSG_PRINTER_USB
 USB inprimagailu
 ; USB Printer
 ;
+MSG_PRINTER_SPOOLER
+Inprimatze-ilara
+; Print spooler
+;
+MSG_PRINTER_NETWORK
+Sareko inprimagailua
+; Network printer
+;
+MSG_PRINTER_OTHER_DEVICE
+Beste gailu bat
+; Other device
+;
+MSG_PRINTER_DESTINATION
+Helmuga
+; Destination
+;
+MSG_PRINTER_SENDS_TO
+Hona bidaltzen du:
+; Sends to:
+;
+MSG_PRINTER_NETWORK_PRINTER
+Inprimagailua:
+; Printer:
+;
+MSG_PRINTER_FORMAT
+Formatua:
+; Format:
+;
+MSG_PRINTER_ID
+Inprimagailuaren IDa:
+; Printer ID:
+;
+MSG_PRINTER_NONE_FOUND
+Ez da sareko inprimagailurik aurkitu
+; No network printers found
+;
+MSG_PRINTER_DEST_FAILED
+Ezin izan da helmuga aldatu:\n%s
+; The destination could not be changed:\n%s
+;
+MSG_PRINTER_DRIVER_SETTINGS
+Aurreratua...
+; Advanced...
+;
+MSG_PRINTER_DRIVER_NAME
+Driver:
+; Driver:
+;
+MSG_PRINTER_NO_DRIVER_SETTINGS
+Hautatutako driverrak ez du ezarpen propiorik.
+; The selected driver has no settings of its own.
+;
+MSG_PRINTER_DRIVER_SETTINGS_FAILED
+Ezin dira printer.device-ren %ld unitatearen ezarpenak ireki (%ld errorea).
+; Cannot open the settings of printer.device unit %ld (error %ld).
+;
 MSG_TISK_PAPER_TYPE
 Paper mota:
 ; Paper Type:

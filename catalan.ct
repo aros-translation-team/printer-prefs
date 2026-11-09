@@ -58,6 +58,62 @@ MSG_PRINTER_USB
 Impressora USB
 ; USB Printer
 ;
+MSG_PRINTER_SPOOLER
+Cua d'impressió
+; Print spooler
+;
+MSG_PRINTER_NETWORK
+Impressora de xarxa
+; Network printer
+;
+MSG_PRINTER_OTHER_DEVICE
+Un altre dispositiu
+; Other device
+;
+MSG_PRINTER_DESTINATION
+Destinació
+; Destination
+;
+MSG_PRINTER_SENDS_TO
+Envia a:
+; Sends to:
+;
+MSG_PRINTER_NETWORK_PRINTER
+Impressora:
+; Printer:
+;
+MSG_PRINTER_FORMAT
+Format:
+; Format:
+;
+MSG_PRINTER_ID
+ID de la impressora:
+; Printer ID:
+;
+MSG_PRINTER_NONE_FOUND
+No s'ha trobat cap impressora de xarxa
+; No network printers found
+;
+MSG_PRINTER_DEST_FAILED
+No s'ha pogut canviar la destinació:\n%s
+; The destination could not be changed:\n%s
+;
+MSG_PRINTER_DRIVER_SETTINGS
+Avançat...
+; Advanced...
+;
+MSG_PRINTER_DRIVER_NAME
+Controlador:
+; Driver:
+;
+MSG_PRINTER_NO_DRIVER_SETTINGS
+El controlador seleccionat no té paràmetres propis.
+; The selected driver has no settings of its own.
+;
+MSG_PRINTER_DRIVER_SETTINGS_FAILED
+No es poden obrir els paràmetres de la unitat %ld de printer.device (error %ld).
+; Cannot open the settings of printer.device unit %ld (error %ld).
+;
 MSG_TISK_PAPER_TYPE
 Tipus de paper:
 ; Paper Type:

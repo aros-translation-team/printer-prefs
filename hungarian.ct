@@ -58,6 +58,62 @@ MSG_PRINTER_USB
 USB nyomtató
 ; USB Printer
 ;
+MSG_PRINTER_SPOOLER
+Nyomtatási sor
+; Print spooler
+;
+MSG_PRINTER_NETWORK
+Hálózati nyomtató
+; Network printer
+;
+MSG_PRINTER_OTHER_DEVICE
+Más eszköz
+; Other device
+;
+MSG_PRINTER_DESTINATION
+Cél
+; Destination
+;
+MSG_PRINTER_SENDS_TO
+Küldés ide:
+; Sends to:
+;
+MSG_PRINTER_NETWORK_PRINTER
+Nyomtató:
+; Printer:
+;
+MSG_PRINTER_FORMAT
+Formátum:
+; Format:
+;
+MSG_PRINTER_ID
+Nyomtatóazonosító:
+; Printer ID:
+;
+MSG_PRINTER_NONE_FOUND
+Nem található hálózati nyomtató
+; No network printers found
+;
+MSG_PRINTER_DEST_FAILED
+A cél nem módosítható:\n%s
+; The destination could not be changed:\n%s
+;
+MSG_PRINTER_DRIVER_SETTINGS
+Speciális...
+; Advanced...
+;
+MSG_PRINTER_DRIVER_NAME
+Meghajtó:
+; Driver:
+;
+MSG_PRINTER_NO_DRIVER_SETTINGS
+A kiválasztott meghajtónak nincsenek saját beállításai.
+; The selected driver has no settings of its own.
+;
+MSG_PRINTER_DRIVER_SETTINGS_FAILED
+A printer.device %ld. egységének beállításai nem nyithatók meg (hiba: %ld).
+; Cannot open the settings of printer.device unit %ld (error %ld).
+;
 MSG_TISK_PAPER_TYPE
 Papírtípus:
 ; Paper Type:
