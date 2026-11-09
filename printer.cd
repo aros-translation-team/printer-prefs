@@ -41,6 +41,48 @@ Print to file
 MSG_PRINTER_USB (//)
 USB Printer
 ;
+MSG_PRINTER_SPOOLER (//)
+Print spooler
+;
+MSG_PRINTER_NETWORK (//)
+Network printer
+;
+MSG_PRINTER_OTHER_DEVICE (//)
+Other device
+;
+MSG_PRINTER_DESTINATION (//)
+Destination
+;
+MSG_PRINTER_SENDS_TO (//)
+Sends to:
+;
+MSG_PRINTER_NETWORK_PRINTER (//)
+Printer:
+;
+MSG_PRINTER_FORMAT (//)
+Format:
+;
+MSG_PRINTER_ID (//)
+Printer ID:
+;
+MSG_PRINTER_NONE_FOUND (//)
+No network printers found
+;
+MSG_PRINTER_DEST_FAILED (//)
+The destination could not be changed:\n%s
+;
+MSG_PRINTER_DRIVER_SETTINGS (//)
+Advanced...
+;
+MSG_PRINTER_DRIVER_NAME (//)
+Driver:
+;
+MSG_PRINTER_NO_DRIVER_SETTINGS (//)
+The selected driver has no settings of its own.
+;
+MSG_PRINTER_DRIVER_SETTINGS_FAILED (//)
+Cannot open the settings of printer.device unit %ld (error %ld).
+;
 MSG_TISK_PAPER_TYPE (//)
 Paper Type:
 ;
