@@ -58,6 +58,62 @@ MSG_PRINTER_USB
 USB Yazýcý
 ; USB Printer
 ;
+MSG_PRINTER_SPOOLER
+Yazdýrma kuyruðu
+; Print spooler
+;
+MSG_PRINTER_NETWORK
+Að yazýcýsý
+; Network printer
+;
+MSG_PRINTER_OTHER_DEVICE
+Baþka aygýt
+; Other device
+;
+MSG_PRINTER_DESTINATION
+Hedef
+; Destination
+;
+MSG_PRINTER_SENDS_TO
+Gönderilen yer:
+; Sends to:
+;
+MSG_PRINTER_NETWORK_PRINTER
+Yazýcý:
+; Printer:
+;
+MSG_PRINTER_FORMAT
+Biçim:
+; Format:
+;
+MSG_PRINTER_ID
+Yazýcý kimliði:
+; Printer ID:
+;
+MSG_PRINTER_NONE_FOUND
+Að yazýcýsý bulunamadý
+; No network printers found
+;
+MSG_PRINTER_DEST_FAILED
+Hedef deðiþtirilemedi:\n%s
+; The destination could not be changed:\n%s
+;
+MSG_PRINTER_DRIVER_SETTINGS
+Geliþmiþ...
+; Advanced...
+;
+MSG_PRINTER_DRIVER_NAME
+Sürücü:
+; Driver:
+;
+MSG_PRINTER_NO_DRIVER_SETTINGS
+Seçilen sürücünün kendi ayarlarý yok.
+; The selected driver has no settings of its own.
+;
+MSG_PRINTER_DRIVER_SETTINGS_FAILED
+printer.device %ld biriminin ayarlarý açýlamýyor (hata %ld).
+; Cannot open the settings of printer.device unit %ld (error %ld).
+;
 MSG_TISK_PAPER_TYPE
 Kaðýt Türü:
 ; Paper Type:

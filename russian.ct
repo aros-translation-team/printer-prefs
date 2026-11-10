@@ -59,6 +59,62 @@ MSG_PRINTER_USB
 USB-порт
 ; USB Printer
 ;
+MSG_PRINTER_SPOOLER
+Очередь печати
+; Print spooler
+;
+MSG_PRINTER_NETWORK
+Сетевой принтер
+; Network printer
+;
+MSG_PRINTER_OTHER_DEVICE
+Другое устройство
+; Other device
+;
+MSG_PRINTER_DESTINATION
+Назначение
+; Destination
+;
+MSG_PRINTER_SENDS_TO
+Отправлять на:
+; Sends to:
+;
+MSG_PRINTER_NETWORK_PRINTER
+Принтер:
+; Printer:
+;
+MSG_PRINTER_FORMAT
+Формат:
+; Format:
+;
+MSG_PRINTER_ID
+ID принтера:
+; Printer ID:
+;
+MSG_PRINTER_NONE_FOUND
+Сетевые принтеры не найдены
+; No network printers found
+;
+MSG_PRINTER_DEST_FAILED
+Не удалось изменить назначение:\n%s
+; The destination could not be changed:\n%s
+;
+MSG_PRINTER_DRIVER_SETTINGS
+Дополнительно...
+; Advanced...
+;
+MSG_PRINTER_DRIVER_NAME
+Драйвер:
+; Driver:
+;
+MSG_PRINTER_NO_DRIVER_SETTINGS
+У выбранного драйвера нет собственных настроек.
+; The selected driver has no settings of its own.
+;
+MSG_PRINTER_DRIVER_SETTINGS_FAILED
+Не удалось открыть настройки printer.device, юнит %ld (ошибка %ld).
+; Cannot open the settings of printer.device unit %ld (error %ld).
+;
 MSG_TISK_PAPER_TYPE
 Тип бумаги:
 ; Paper Type:

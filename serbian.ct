@@ -58,6 +58,62 @@ MSG_PRINTER_USB
 USB Átampaü
 ; USB Printer
 ;
+MSG_PRINTER_SPOOLER
+Red za Átampu
+; Print spooler
+;
+MSG_PRINTER_NETWORK
+Mreßni Átampaü
+; Network printer
+;
+MSG_PRINTER_OTHER_DEVICE
+Drugi ure–aj
+; Other device
+;
+MSG_PRINTER_DESTINATION
+OdrediÁte
+; Destination
+;
+MSG_PRINTER_SENDS_TO
+Êalje na:
+; Sends to:
+;
+MSG_PRINTER_NETWORK_PRINTER
+Êtampaü:
+; Printer:
+;
+MSG_PRINTER_FORMAT
+Format:
+; Format:
+;
+MSG_PRINTER_ID
+ID Átampaüa:
+; Printer ID:
+;
+MSG_PRINTER_NONE_FOUND
+Nisu prona–eni mreßni Átampaüi
+; No network printers found
+;
+MSG_PRINTER_DEST_FAILED
+OdrediÁte nije moglo da se promeni:\n%s
+; The destination could not be changed:\n%s
+;
+MSG_PRINTER_DRIVER_SETTINGS
+Napredno...
+; Advanced...
+;
+MSG_PRINTER_DRIVER_NAME
+Drajver:
+; Driver:
+;
+MSG_PRINTER_NO_DRIVER_SETTINGS
+Izabrani drajver nema svoja podeÁavanja.
+; The selected driver has no settings of its own.
+;
+MSG_PRINTER_DRIVER_SETTINGS_FAILED
+PodeÁavanja jedinice %ld ure–aja printer.device ne mogu da se otvore (greÁka %ld).
+; Cannot open the settings of printer.device unit %ld (error %ld).
+;
 MSG_TISK_PAPER_TYPE
 Tip papira:
 ; Paper Type:

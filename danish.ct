@@ -58,6 +58,62 @@ MSG_PRINTER_USB
 USB-printer
 ; USB Printer
 ;
+MSG_PRINTER_SPOOLER
+Udskriftsspooler
+; Print spooler
+;
+MSG_PRINTER_NETWORK
+Netværksprinter
+; Network printer
+;
+MSG_PRINTER_OTHER_DEVICE
+Anden enhed
+; Other device
+;
+MSG_PRINTER_DESTINATION
+Destination
+; Destination
+;
+MSG_PRINTER_SENDS_TO
+Sender til:
+; Sends to:
+;
+MSG_PRINTER_NETWORK_PRINTER
+Printer:
+; Printer:
+;
+MSG_PRINTER_FORMAT
+Format:
+; Format:
+;
+MSG_PRINTER_ID
+Printer-ID:
+; Printer ID:
+;
+MSG_PRINTER_NONE_FOUND
+Ingen netværksprintere fundet
+; No network printers found
+;
+MSG_PRINTER_DEST_FAILED
+Destinationen kunne ikke ændres:\n%s
+; The destination could not be changed:\n%s
+;
+MSG_PRINTER_DRIVER_SETTINGS
+Avanceret...
+; Advanced...
+;
+MSG_PRINTER_DRIVER_NAME
+Driver:
+; Driver:
+;
+MSG_PRINTER_NO_DRIVER_SETTINGS
+Den valgte driver har ingen egne indstillinger.
+; The selected driver has no settings of its own.
+;
+MSG_PRINTER_DRIVER_SETTINGS_FAILED
+Kan ikke åbne indstillingerne for printer.device enhed %ld (fejl %ld).
+; Cannot open the settings of printer.device unit %ld (error %ld).
+;
 MSG_TISK_PAPER_TYPE
 Papirtype:
 ; Paper Type:
